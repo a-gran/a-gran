@@ -3,12 +3,12 @@
 Меня зовут Алексей.
 Я - QA Engineer.
 
-<code>⚪ Community: QAStudio</code>
 <code>👷 Speciality: QA-engineer</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript, Python, SQL</code>
 <code>🧑‍💻 Layouts: HTML, CSS, MD</code>
 <code>💬 telegram: [@a_gran](https://telegram.me/a_gran)</code>
 <code>📫 [awebdeff@gmail.com](mailto:awebdeff@gmail.com)</code>
+<code>⚪ Community: QAStudio</code>
 
 ## 📊 Статистика
 
