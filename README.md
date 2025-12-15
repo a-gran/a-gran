@@ -1,7 +1,7 @@
 ## Привет！ 👋
 
 Меня зовут Алексей.
-Я - QA Engineer.
+И я - QA Engineer.
 
 <code>👷 Speciality: QA-engineer</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript, Go, Python, SQL</code><br>
