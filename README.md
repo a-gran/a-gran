@@ -4,7 +4,7 @@
 И я - QA Engineer.
 
 <code>👷 Speciality: QA-engineer</code><br>
-<code>🧑‍💻 Languages: JavaScript, TypeScript, Go, Python, SQL</code><br>
+<code>🧑‍💻 Languages: Python, JavaScript, SQL, Bash</code><br>
 <code>🧑‍💻 Layouts: HTML, CSS, MD</code><br>
 <code>💬 telegram: [@a_gran](https://telegram.me/a_gran)</code><br>
 <code>📫 [awebdeff@gmail.com](mailto:awebdeff@gmail.com)</code><br>
